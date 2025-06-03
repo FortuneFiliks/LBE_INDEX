@@ -1,4 +1,4 @@
-@media(MIN-WIDTH : 768PX){
+
    *{
        margin : 0;
    	   padding : 0;
@@ -946,6 +946,4 @@
 	.whatsapp_icon{
 		width : 35px;
 		height : 35px;
-	}	
-	 
-}
+	}
