@@ -45,11 +45,11 @@
 	}
     
     nav .nav_links a{
-    	font-size : 1.15rem;
+    	font-size : 1rem;
     	color : #ffffff;
     	text-decoration : none;
-    	padding-left : 2.5px;
-    	padding-right : 2.5px;
+    	padding-left : 1px;
+    	padding-right : 1px;
     }
     
     nav .nav_links a:hover{
