@@ -103,39 +103,39 @@
 	   background-color: #003153CC;
        background-image: radial-gradient(#003153CC 0%, #1B1B1BD8 74%);
    	   width : 95%;
-   	   height : 55vh;
-	   margin-top : 10vh;
+   	   height : 45vh;
+	   margin-top : 20vh;
 	   margin-left : auto;
 	   margin-right : auto;
 	   position : relative;
    }
   .decor_one{
-	  width : 100px;
-	  height : 100px;
+	  width : 80px;
+	  height : 80px;
 	  position : absolute;
 	  top : 0;
 	  right : 0;
   }
   
   .decor_two{
-	  width : 100px;
-	  height : 100px;
+	  width : 80px;
+	  height : 80px;
 	  position : absolute;
 	  bottom : 0;
 	  left  : 0;
 	  transform : rotate(180deg)
   }  
   .decor_three{
-	  width : 100px;
-	  height : 100px;
+	  width : 80px;
+	  height : 80px;
 	  position : absolute;
 	  top: 0;
 	  left  : 0;
 	  transform : rotate(-90deg)
   }  
   .decor_four{
-	  width : 100px;
-	  height : 100px;
+	  width : 80px;
+	  height : 80px;
 	  position : absolute;
 	  bottom : 0;
 	  right  : 0;
